@@ -20,4 +20,4 @@ import ReactDOM from "react-dom";
 
 
 
-export default body;
+export default bigbody;

@@ -20,5 +20,5 @@ import ReactDOM from "react-dom";
 
 
 
-export default footer; 
+export default feeties; 
 
